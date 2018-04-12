@@ -9,7 +9,7 @@
     "build:ci": "ng build --prod --progress false",
     "test": "ng test",
     "test:ci": "ng test --single-run true --browsers FirefoxHeadless,ChromeHeadlessNoSandbox",
-    "lint": "ng lint",
+    "lint": "ng lint --type-check true --force",
     "lint:ci": "ng lint --type-check true",
     "e2e": "ng e2e"
   },
