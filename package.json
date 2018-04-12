@@ -15,6 +15,7 @@
   },
   "private": true,
   "dependencies": {
+    "@angular-generic-table/core": "^4.13.0",
     "@angular/animations": "^4.4.6",
     "@angular/common": "^4.4.6",
     "@angular/compiler": "^4.4.6",
